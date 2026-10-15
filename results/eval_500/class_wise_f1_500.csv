@@ -1,0 +1,4 @@
+Class,Baseline Clean F1,Baseline B@0.3 F1,Norm Light Clean F1,Norm+Aug B@0.3 F1
+negative,0.7323,0.6901,0.7295,0.6921
+neutral,0.563,0.545,0.5579,0.5435
+positive,0.7126,0.7,0.7186,0.694
